@@ -4,4 +4,4 @@ A collection of programs, libraries, and tools to make building robots easy and 
 
 Documentation [https://arpirobot.github.io/](https://arpirobot.github.io/)
 
-Support: [Discussions Board](https://github.com/orgs/ArPiRobot/discussions)
+Support: [GitHub Discussions](https://github.com/orgs/ArPiRobot/discussions)
